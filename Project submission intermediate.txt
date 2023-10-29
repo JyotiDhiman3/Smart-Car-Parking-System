@@ -16,3 +16,6 @@ input [3:0] pass1,pass2;// for 4 bit passwords that would be required at the tim
 output wire green_light,red light;
 output reg [6:0] HEX_1,HEX_2;
 );
+
+
+
